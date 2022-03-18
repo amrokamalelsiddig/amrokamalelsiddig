@@ -1,6 +1,8 @@
-# Hello Everyone and Welcome to my profile 
+# Hello Everyone 👋
+My name is Amro and im an avation and customer services professional, 
 
-# 42 Prograss 
+
+# 42cursus Progress 💪🏻 
 
 | Project        |      Status      |
 |----------------|------------------|
