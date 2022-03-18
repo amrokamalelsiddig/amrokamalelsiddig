@@ -1,6 +1,5 @@
 # Hello Everyone 👋
-My name is Amro and im an avation and customer services professional, 
-
+My name is Amro and im an avation and customer services professional, working on shifting my carrer into programming .
 
 # 42cursus Progress 💪🏻 
 
