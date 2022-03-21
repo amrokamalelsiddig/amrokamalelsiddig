@@ -29,6 +29,7 @@ My name is Amro and im an avation and customer services professional, working on
 -->
 
 <h2 align="left">Let's connect ! :alien:</h2>
+
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/amrokamal89/)](https://twitter.com/amrokamal89/)
 ![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amro-elsiddig-the-right-candidate-for-your-company/)
 ![](https://img.shields.io/badge/-gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:amrokamalelsiddig@gmail.com) 
