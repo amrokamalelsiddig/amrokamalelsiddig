@@ -1,5 +1,4 @@
 # Hello Everyone <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-My name is Amro and im an avation and customer services professional, working on shifting my carrer into programming .
 
 
 <h2 align="left">Let's connect ! :alien:</h2>
