@@ -17,15 +17,4 @@
 </a>
 <a href="http://amro-elsiddig.me">
   <img align="left" alt="Amro's website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ubuntu.svg" />
-.
-
-# 42cursus Progress 💪🏻 
-
-| Project        |      Status      |
-|----------------|------------------|
-| Libft          |          ✅     |
-| [Printf](../amrokamalelsiddig/ft_printf)        |          ✅     |
-| Get Next Line  |          ✅     |
-| Bron2beroot |          ⌛      |
-
 
