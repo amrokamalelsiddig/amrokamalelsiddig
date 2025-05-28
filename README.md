@@ -13,9 +13,6 @@ Transforming complex data into actionable insights.
 With over a decade of experience in the aviation industry, I've transitioned into the fields of software engineering and data science. My journey includes:
 
 - **Aviation Experience**: Worked with leading companies like Emirates Airline and Etihad Airways, focusing on operational management and process optimization.
-- **Education**:
-  - Completed a project-based software engineering program at [42 Abu Dhabi](https://42abudhabi.ae).
-  - Currently pursuing a master's degree in Data Science and Artificial Intelligence.
 - **Technical Skills**:
   - **Languages**: Python, C, C++, JavaScript
   - **Frameworks**: Django, React.js, TensorFlow, PyTorch
